@@ -10,9 +10,18 @@
 
 // ACTIVITY 02
 
-let Topping = "Chicken" ;
+let Topping = "Spicy Beef" ;
 
 switch (Topping) {
-    case Topping == "Chicken":
-    console.log("This should be on the pizza.")
+    case "Chicken" :
+        console.log ("This goes well on the pizza.")
+    break;
+    case "Pepperoni" :
+        console.log ("This is good on the pizza.")
+    break;    
+    case "Spicy Beef" :
+        console.log ("This is great on the pizza.")
+    break;    
+    case "Pineapple" :
+        console.log ("You can't be serious!?!?")    
 }
