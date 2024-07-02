@@ -28,8 +28,19 @@
 
 // ACTIVITY 03
 
-let password = "pizzatime"
+// let password = "pizzatime"
 
-if (password >= 8) {
-    console.log ("Too short.")
-}
+// if (password >= 8) {
+//     console.log ("Too short.")
+// }
+
+// ARRAY ACTIVITY 01
+
+let Songs = [
+    "Sonic Frontiers OST - Undefeatable",
+    "The Rolling Stones - Paint It, Black",
+    "Elena Siegman - 115" ];
+        console.log (Songs)
+// Songs.push
+
+// Songs.pop
