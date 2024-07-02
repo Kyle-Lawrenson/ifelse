@@ -47,15 +47,15 @@
 
 // ARRAY 02 ACTIVITY 01
 
-let movies = [ "Transformers", "Insideous", "21 Jump Street", "Baghead", "Fast & Furious: Tokyo Drift"
-    ];
-    console.log(movies)
+// let movies = [ "Transformers", "Insideous", "21 Jump Street", "Baghead", "Fast & Furious: Tokyo Drift"
+//     ];
+//         console.log(movies)
 
-movies.push ("Suzume")
-    console.log(movies)
+// movies.push ("Suzume")
+//     console.log(movies)
 
-movies.push ("Fury")
-    console.log(movies)
+// movies.push ("Fury")
+//     console.log(movies)
 
-movies.pop ;
-    console.log(movies)
+// movies.pop ;
+//     console.log(movies)
