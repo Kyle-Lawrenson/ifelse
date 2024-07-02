@@ -10,18 +10,26 @@
 
 // ACTIVITY 02
 
-let Topping = "Spicy Beef" ;
+// let Topping = "Spicy Beef" ;
 
-switch (Topping) {
-    case "Chicken" :
-        console.log ("This goes well on the pizza.")
-    break;
-    case "Pepperoni" :
-        console.log ("This is good on the pizza.")
-    break;    
-    case "Spicy Beef" :
-        console.log ("This is great on the pizza.")
-    break;    
-    case "Pineapple" :
-        console.log ("You can't be serious!?!?")    
+// switch (Topping) {
+//     case "Chicken" :
+//         console.log ("This goes well on the pizza.")
+//     break;
+//     case "Pepperoni" :
+//         console.log ("This is good on the pizza.")
+//     break;    
+//     case "Spicy Beef" :
+//         console.log ("This is great on the pizza.")
+//     break;    
+//     case "Pineapple" :
+//         console.log ("You can't be serious!?!?")    
+// }
+
+// ACTIVITY 03
+
+let password = "pizzatime"
+
+if (password >= 8) {
+    console.log ("Too short.")
 }
