@@ -36,11 +36,26 @@
 
 // ARRAY ACTIVITY 01
 
-let Songs = [
-    "Sonic Frontiers OST - Undefeatable",
-    "The Rolling Stones - Paint It, Black",
-    "Elena Siegman - 115" ];
-        console.log (Songs)
+// let Songs = [
+//     "Sonic Frontiers OST - Undefeatable",
+//     "The Rolling Stones - Paint It, Black",
+//     "Elena Siegman - 115" ];
+//         console.log (Songs)
 // Songs.push
 
 // Songs.pop
+
+// ARRAY 02 ACTIVITY 01
+
+let movies = [ "Transformers", "Insideous", "21 Jump Street", "Baghead", "Fast & Furious: Tokyo Drift"
+    ];
+    console.log(movies)
+
+movies.push ("Suzume")
+    console.log(movies)
+
+movies.push ("Fury")
+    console.log(movies)
+
+movies.pop ;
+    console.log(movies)
