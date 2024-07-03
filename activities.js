@@ -134,6 +134,17 @@
 
 // Songs.pop
 
+// ARRAY ACTIVITY 02
+
+// let numbers = [10, 20, 30, 40, 50];
+ 
+// let doubledNumbers = numbers.map(function(number) {
+//     return number * 2;
+// });
+ 
+// console.log("Original numbers:", numbers);
+// console.log("Doubled numbers:", doubledNumbers);
+
 // ARRAY 02 ACTIVITY 01
 
 // let movies = [ "Transformers", "Insideous", "21 Jump Street", "Baghead", "Fast & Furious: Tokyo Drift"
@@ -148,3 +159,6 @@
 
 // movies.pop ;
 //     console.log(movies)
+
+// ARRAY 02 ACTIVITY 02
+
